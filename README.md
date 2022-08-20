@@ -1,4 +1,4 @@
-# Login-Regisration_program_in_C++
+# Login-Registration_program_in_C++
 
 How to use this application 
 This is a basic login program it has very low security will make a high secured and encrypted in coming days;
